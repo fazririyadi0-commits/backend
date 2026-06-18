@@ -120,7 +120,7 @@ unset($_SESSION['login_error']);
                     <input type="email" id="email" name="email" class="form-control" placeholder="Masukkan Email Anda" required>
                 </div>
                 <div class="form-group">
-                    <label for="password">Kata Sandi</label>
+                    <label for="password">kata sandi</label>
                     <input type="password" id="password" name="password" class="form-control" placeholder="Masukkan Kata Sandi Anda" required>
                 </div>
                 <button type="submit" class="btn-submit">Masuk</button>
