@@ -108,7 +108,7 @@ unset($_SESSION['login_error']);
 <body>
     <div class="login-card">
         <div class="card-header">
-            <h2>Masuk ke Sistem</h2>
+            <h2>Masuk Ke Sistem</h2>
         </div>
         <div class="card-body">
             <?php if ($error): ?>
